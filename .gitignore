@@ -1,1 +1,2 @@
 node_modules/
+# Ignore files beginning with a speciific character - Ignore all files starting with "z"
