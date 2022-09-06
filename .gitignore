@@ -1,2 +1,4 @@
 node_modules/
-# Ignore files beginning with a speciific character - Ignore all files starting with z*,.env,/artifacts/.
+# Ignore files beginning with a speciific character - Ignore all files starting with z*
+# Ignore files beginning with a speciific character - Ignore all files starting with .env
+#Ignore files @root folder - Ignore all files starting in folder /artifacts
